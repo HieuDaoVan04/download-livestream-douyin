@@ -1,0 +1,14 @@
+logs/
+__pycache__/
+*.pyc
+.venv/
+data.db
+config.yaml
+Downloaded/
+.idea/
+.tools/
+livestream_settings.json
+livestream_settings.tmp
+.pytest_cache/
+.build/
+dist/
